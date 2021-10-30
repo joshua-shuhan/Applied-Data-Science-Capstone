@@ -1,6 +1,8 @@
 # Applied-Data-Science-Capstone
-This is the repository for Applied Data Science Capstone
+This is the repository for Applied Data Science Capstone. </br>
 
-`Final-notebook-1` is for API data collecting and pandas data wrangling.
-`Final-notebook-2` is for  data collection with web scraping lab.
-`datawrangling` is for rocket launching data wrangling.
+`Web data collection and wrangling` obtains JSON data from API and performs data wrangling.</br>
+`Web data collection and wrangling-2` obtains html data from wiki page and performs data wrangling.</br>
+`EDA with Visualization lab` and `Data wrangling` perform EDA and data wrangling on SpaceX rocket launching data.
+
+

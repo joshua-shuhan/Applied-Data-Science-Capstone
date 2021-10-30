@@ -1,5 +1,5 @@
 # Applied-Data-Science-Capstone
-This is the repository for Applied Data Science Capstone. </br>
+This is the repository for Applied Data Science Capstone, Coursera. </br>
 
 `Web data collection and wrangling` obtains JSON data from API and performs data wrangling.</br>
 `Web data collection and wrangling-2` obtains html data from wiki page and performs data wrangling.</br>
